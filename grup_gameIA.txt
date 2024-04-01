@@ -1,8 +1,11 @@
 Materia: Inteligencia Artificial 1
 
-Proyecto de Inteligencia Artificial 1 "Juego IA"
+    " Proyecto de Inteligencia Artificial 1 "Juego IA""
 
 Nombre de integrantes:
 
 Nombre: David Joaquin Ramirez Muñoz
 Carné: 1904002003
+
+Nombre: Edvid Stuardo Pérez Garcia
+Carné: 1904002011
