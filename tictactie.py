@@ -169,7 +169,7 @@ class AI:
             # minimax algo choice
             eval, move = self.minimax(main_board, False)
 
-        print(f'AI has chosen to mark the square in pos {move} with an eval of: {eval}')
+        print(f'La AI ha elegido marcar el cuadro en la posicion {move} Con una evaluacion de: {eval}')
 
         return move # row, col
 
