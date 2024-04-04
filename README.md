@@ -18,7 +18,7 @@
 # Link del Video
 - presione el link para ver el video: https://drive.google.com/file/d/1LEM1Bf9A--ZNOehiGwzWLBfw_x8_4SNS/view?usp=drive_link
 
-- presione el linnk para ver el manual tecnico:
+- presione el linnk para ver el manual tecnico: https://drive.google.com/file/d/1-vCgmpNbQ2A6EtnkPpx7-igx-betPuRs/view?usp=drive_link
 
 ## Snapshot 1 - Logic AI
 ![Sistema AI](IMG/Sistema%20AI.png)
