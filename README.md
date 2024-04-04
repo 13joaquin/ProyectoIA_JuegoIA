@@ -16,7 +16,7 @@
 - presiona 'r' para reiniciar el juego
 
 # Link del Video
-- presione el link para ver el video:
+- presione el link para ver el video: https://drive.google.com/file/d/1LEM1Bf9A--ZNOehiGwzWLBfw_x8_4SNS/view?usp=drive_link
 
 - presione el linnk para ver el manual tecnico:
 
@@ -24,13 +24,13 @@
 ![Sistema AI](IMG/Sistema%20AI.png)
 
 ## Snapshot 2 - START GAME
-![](IMG)
+![StartGame](IMG/StartGame.png)
 
-## Snapshot 3 - CiRCULO WIN
-![](IMG)
+## Snapshot 3 - CIRCULO WIN
+![CirculoGana](IMG/CirculoGana.png)
 
 ## Snapshot 4 - CRUZ WIN
-![](IMG/CruzGana.png)
+![CruzGana](IMG/CruzGana.png)
 
 ## Snapshot 5 - AI WIN
-![](IMG)
+![AIGAME](IMG/AIGAME.png)
